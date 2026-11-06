@@ -1,0 +1,27 @@
+## Ignore Visual Studio temporary files, build results
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Oo]bj/
+[Bb]in/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+## Secrets & Env
+.env
+appsettings.Development.json
+appsettings.Local.json
+
+## Docker override
+**/docker-compose*.override.yml
