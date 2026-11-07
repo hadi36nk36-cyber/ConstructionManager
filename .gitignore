@@ -4,6 +4,7 @@
 *.suo
 *.userosscache
 *.sln.docstates
+tokengit.txt
 
 ## Build results
 [Dd]ebug/
